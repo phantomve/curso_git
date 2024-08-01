@@ -5,3 +5,5 @@ Actualizando el archivo creado
 gestionando commit con am
 
 se modificó el archivo para practica de ramas
+
+cambios 2.0
