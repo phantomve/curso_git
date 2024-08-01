@@ -6,4 +6,4 @@ gestionando commit con am
 
 se modificó el archivo para practica de ramas
 
-cambios 2.0
+modificando para realizar pruebas de cambios en ambas ramas
