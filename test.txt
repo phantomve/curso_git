@@ -11,3 +11,5 @@ modificando para realizar pruebas de cambios en ambas ramas
 realizando mas pruebas
 
 Cambios realizados desde GitHub
+
+Añadiendo cambios para verificar conexión segura SSH
