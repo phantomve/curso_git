@@ -13,3 +13,5 @@ realizando mas pruebas
 Cambios realizados desde GitHub
 
 Añadiendo cambios para verificar conexión segura SSH
+
+Añadiendo cambios para la colaboración
