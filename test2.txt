@@ -5,3 +5,5 @@ Creando mas cambios
 Otros cambios de prueba
 
 cambios desde github para pruebas con conexión SSH
+
+Cambios para colaboradores, del original al copia
