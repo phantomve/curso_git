@@ -1,3 +1,5 @@
 Prueba para pull request
 
 Realizando pruebas desde equipo colaborador
+
+Realizando otros cambios adicionales como colaborador
